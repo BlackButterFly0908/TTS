@@ -1,0 +1,21 @@
+# RunPod serverless SDK
+runpod
+
+# Chatterbox TTS (Resemble AI)
+chatterbox-tts
+
+# Core ML dependencies
+torch
+torchaudio
+
+# Audio handling and processing
+soundfile
+numpy
+scipy
+librosa
+
+# Optional watermark detection
+perth
+
+# HTTP + utils
+requests
